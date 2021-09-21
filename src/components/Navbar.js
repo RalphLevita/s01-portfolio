@@ -9,7 +9,8 @@ export default function AppNavbar() {
         <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
             <Nav className="mr-auto">
                 <Nav.Link href="#home">Home</Nav.Link>
-                <Nav.Link href="#link">Link</Nav.Link>
+                <Nav.Link href="#link">Link</Nav.Link> 
+                <Nav.Link href="#link">About</Nav.Link> 
             </Nav>
         </Navbar>
     )
