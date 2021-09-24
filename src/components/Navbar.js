@@ -11,7 +11,8 @@ export default function AppNavbar() {
                 <Nav.Link href="#home">Home</Nav.Link>
                 <Nav.Link href="#link">Link</Nav.Link> 
                 <Nav.Link href="#link">About</Nav.Link>
-                <Nav.Link href="#link">test</Nav.Link> 
+                <Nav.Link href="#link">Contact</Nav.Link> 
+                <Nav.Link href="#News">News</Nav.Link> 
             </Nav>
         </Navbar>
     )
